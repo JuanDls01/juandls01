@@ -10,10 +10,10 @@
 
 ```javascript
 const juani = {
-   code: [Javascript, HTML, CSS],
+   code: [Typescript, Javascript, HTML, CSS],
    technologies: {
       frontEnd: ["React", "Redux", "Styled-Components", "Figma"],
-      backEnd: ["Node.js", "Express", "Sequelize"],
+      backEnd: ["Node.js", "Express", "Sequelize", "TypeORM"],
       databases: ["PostgreSQL"],
       deploy: ["Vercel", "Heroku"]
    },
