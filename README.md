@@ -5,19 +5,19 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juandelossantosdeveloper/)
 </br>
 <h2>Un poco sobre mi 🌱</h2>
-<p><em>Soy un desarrollador web fullstack, que inicio su camino profesional como Ingeniero Industrial, permitiendole adquirir habilidades tanto técnicas como blandas, y que un día decidio lanzarse a su pasión que es la programación</br>
+<p><em>Soy un desarrollador web fullstack, apasionado por la tecnología. Me encantra trabajar del lado del Backend, pero puedo desenvolverme muy bien en el Frontend. Inicie mi camino profesional como Ingeniero Industrial, lo que me permitio adquirir increibles habilidades tanto técnicas como blandas. Actualmente me encuentro en la búsqueda de mi primer experiencia profesional en el mundo IT.</br>
 </em></p>
 
 ```javascript
 const juani = {
-   code: [Typescript, Javascript, HTML, CSS],
+   code: [Python, Typescript, Javascript, HTML, CSS],
    technologies: {
-      frontEnd: ["React", "Redux", "Styled-Components", "Figma"],
-      backEnd: ["Node.js", "Express", "Sequelize", "TypeORM"],
+      frontEnd: ["React", "Next", "Redux", "Styled-Components", "Figma"],
+      backEnd: ["Django", "Node.js", "Express"],
       databases: ["PostgreSQL"],
       deploy: ["Vercel", "Heroku"]
    },
-   softSkills: ["Proactividad", "Trabajo en equipo", "Liderazgo", "Disciplina"]
+   softSkills: ["Proactividad", "Trabajo en equipo", "Liderazgo", "Disciplina", "Curioso", "En constante aprendizaje"]
 };
 ```
 
