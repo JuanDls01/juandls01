@@ -15,9 +15,10 @@ const juani = {
       frontEnd: ["React", "Next", "Redux", "Styled-Components", "Figma"],
       backEnd: ["Django", "Node.js", "Express"],
       databases: ["PostgreSQL"],
-      deploy: ["Vercel", "Heroku"]
+      deploy: ["Vercel", "Heroku"],
    },
-   softSkills: ["Proactividad", "Trabajo en equipo", "Liderazgo", "Disciplina", "Curioso", "En constante aprendizaje"]
+   softSkills: ["Proactividad", "Trabajo en equipo", "Liderazgo", "Disciplina", "Curioso", "En constante aprendizaje"],
+   work: ["git", "gitflow", "SCRUM", "Trello"]
 };
 ```
 
