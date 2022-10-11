@@ -10,14 +10,14 @@
 
 ```javascript
 const juani = {
-   code: [Python, Typescript, Javascript, HTML, CSS],
+   code: [Python, TypeScript, JavaScript],
    technologies: {
-      frontEnd: ["React", "Next", "Redux", "Styled-Components", "Figma"],
+      frontEnd: ["HTML", "CSS", "React", "Next", "Redux", "TailwindCSS", "Figma"],
       backEnd: ["Django", "Node.js", "Express"],
       databases: ["PostgreSQL"],
       deploy: ["Vercel", "Heroku"],
    },
-   softSkills: ["Proactividad", "Trabajo en equipo", "Liderazgo", "Disciplina", "Curioso", "En constante aprendizaje"],
+   softSkills: ["Trabajo en equipo", "Liderazgo", "Perseverancia", "Curiosidad", "En constante aprendizaje"],
    work: ["git", "gitflow", "SCRUM", "Trello"]
 };
 ```
