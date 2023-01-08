@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juandelossantosdeveloper/)
 </br>
 <h2>Un poco sobre mi 🌱</h2>
-<p><em>Soy un desarrollador web fullstack, apasionado por la tecnología. Me encantra trabajar del lado del Backend, pero puedo desenvolverme muy bien en el Frontend. Inicie mi camino profesional como Ingeniero Industrial, lo que me permitio adquirir increibles habilidades tanto técnicas como blandas. Actualmente me encuentro en la búsqueda de mi primer experiencia profesional en el mundo IT.</br>
+<p><em>Soy un desarrollador web fullstack, apasionado por la tecnología. Me encantra trabajar del lado del Backend, pero puedo desenvolverme muy bien en el Frontend. Inicie mi camino profesional como Ingeniero Industrial, lo que me permitio adquirir increibles habilidades tanto técnicas como blandas.</br>
 </em></p>
 
 ```javascript
