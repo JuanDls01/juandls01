@@ -13,12 +13,13 @@ const juani = {
    code: [Python, TypeScript, JavaScript],
    technologies: {
       frontEnd: ["HTML", "CSS", "React", "Next", "Redux", "TailwindCSS", "Figma"],
-      backEnd: ["Django", "Node.js", "Express"],
+      backEnd: ["Django", "Django Rest Framework", "Node.js", "Express"],
+      orm: ["Sequelize", "TypeORM"]
       databases: ["PostgreSQL"],
-      deploy: ["Vercel", "Heroku"],
+      deploy: ["Vercel", "Heroku", "EC2", "S3", "RDS"],
    },
    softSkills: ["Trabajo en equipo", "Liderazgo", "Perseverancia", "Curiosidad", "En constante aprendizaje"],
-   work: ["git", "gitflow", "SCRUM", "Trello"]
+   work: ["git", "gitflow", "SCRUM", "Trello", "Jira"]
 };
 ```
 
