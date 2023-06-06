@@ -14,7 +14,7 @@ const juani = {
    technologies: {
       frontEnd: ["HTML", "CSS", "React", "Next", "Redux", "TailwindCSS", "Figma"],
       backEnd: ["Django", "Django Rest Framework", "Node.js", "Express"],
-      orm: ["Sequelize", "TypeORM"]
+      orm: ["Sequelize", "TypeORM"],
       databases: ["PostgreSQL"],
       deploy: ["Vercel", "Heroku", "EC2", "S3", "RDS"],
    },
