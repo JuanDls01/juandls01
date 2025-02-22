@@ -1,5 +1,5 @@
 ## Hi 🤙, I'm [Juani!](https://juanidls.dev)
-I'm Frontend Software Engineer with passion for React, TypeScript and Python. I'm currently working @[Crombie](https://crombie.dev) in the [Puma Ecommerce](https://us.puma.com/us/en).
+I'm Frontend Software Engineer with passion for React, TypeScript and Performance. I'm currently working @[Crombie](https://crombie.dev) in the [Puma Ecommerce](https://us.puma.com/us/en).
 
 
 ### Connect with me
